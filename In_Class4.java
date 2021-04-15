@@ -12,6 +12,15 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
+/*
+ * Cody Bense
+ * CSCI 1302
+ * In-Class Assignment 4
+ * Description: edit the MileageCalculatorNoConversion.java to use a ComboBox instead of RadioButtons while 
+ * 				changing the even-handling to work with the ComboBox and keeping functionality of the orginal
+ * 				program.
+ */
+
 public class In_Class4 extends Application {
 	// default values/strings
     private double txtWidth = 125.0;
